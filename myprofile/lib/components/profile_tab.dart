@@ -35,7 +35,7 @@ class ProfileTab extends StatelessWidget {
       Container(
         child: Column(
           children: [
-            Text(data)
+            Text("안녀어엉"),
           ],
         ),
       )
